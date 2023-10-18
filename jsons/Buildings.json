@@ -1,0 +1,15 @@
+[
+ {
+  "name": "Brandenburg Gate",
+  "culture": 3,
+  "greatPersonPoints": {"Great Scientist": 2},
+  "isWonder": true,
+  "uniques":
+     [
+      "Free [Great General] appears", 
+      "New [Military] units start with [15] Experience [in all cities]"
+     ],
+  "requiredTech": "Military Science",
+  "quote": "'Pale Death beats equally at the poor man's gate and at the palaces of kings.' - Horace"
+ },
+]
